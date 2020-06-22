@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 exclude: [README.md]
+title : simple site
+author :
+  name : Jelmer Poelstra
+  email : jelmerpoelstra@gmail.com
+  github : jelmerp
+  twitter : JelmerPoelstra
 
