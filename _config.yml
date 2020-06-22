@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 exclude: [README.md]
 title: A Simple Site
-logo: img/DSCN1919.JPG
+logo: img/jetpacktocat.png
 author:
     name: Jelmer Poelstra
     email: jelmerpoelstra@gmail.com
