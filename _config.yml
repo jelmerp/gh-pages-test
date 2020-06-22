@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 exclude: [README.md, .gitignore]
 title: A Simple Site
 description: A site to test Github Pages
+show_downloads: true
 logo: img/jetpacktocat.png
 author:
     name: Jelmer Poelstra
