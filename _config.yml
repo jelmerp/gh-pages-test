@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
 exclude: [README.md]
-title : simple site
-author :
-  name : Jelmer Poelstra
-  email : jelmerpoelstra@gmail.com
-  github : jelmerp
-  twitter : JelmerPoelstra
+title: A Simple Site
+description: Jelmer's Github Pages testing site
+author:
+	name: Jelmer Poelstra
+	email: jelmerpoelstra@gmail.com
+	github: jelmerp
+	twitter: JelmerPoelstra
+
 
