@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-exclude: [README.md]
+exclude: [README.md, .gitignore]
 title: A Simple Site
 logo: img/jetpacktocat.png
 author:
