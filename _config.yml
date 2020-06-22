@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
 exclude: [README.md]
 title: A Simple Site
+logo: img/DSCN1919.JPG
 author:
     name: Jelmer Poelstra
     email: jelmerpoelstra@gmail.com
     github: jelmerp
     twitter: JelmerPoelstra
+
 
